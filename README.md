@@ -1,0 +1,2 @@
+# gbf-api
+granblue api
